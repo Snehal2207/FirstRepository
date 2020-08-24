@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\FirstSample\FirstSample\bin\Debug\FirstSample.exe
+c:\users\dell\documents\visual studio 2010\Projects\FirstSample\FirstSample\bin\Debug\FirstSample.pdb
+c:\users\dell\documents\visual studio 2010\Projects\FirstSample\FirstSample\obj\x86\Debug\FirstSample.exe
+c:\users\dell\documents\visual studio 2010\Projects\FirstSample\FirstSample\obj\x86\Debug\FirstSample.pdb
